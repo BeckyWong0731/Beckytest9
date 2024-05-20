@@ -6,52 +6,58 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I'm a graduate student at [the University of La Verne](https://laverne.edu/), pursuing a Master's in Education Leadership. My research interest includes STEM Teaching & Learning, Digital Learning & Media, Education Technology, and educational evaluation.
 
-I am a graduate student at the University of La Verne, pursuing a Master's in Education Leadership. My academic journey began with an undergraduate degree in management and accounting at Hunan Agricultural University, where I developed a strong foundation in various disciplines essential for education.
+I am very fortunate to work as an Academic Technology Specialist at Wilson Library provide [technology support](https://laverne.libguides.com/c.php?g=1086815&p=7924271) for student, faculty, and staff.
 
-My coursework included "Fundamentals of Computer Application," "Principles of Management," "Probability and Mathematical Statistics," "Mathematical Modeling," and "Management Information Systems." These courses equipped me with the technological, analytical, and managerial skills necessary for innovative teaching and educational research. Additionally, "Social Science Research Methods" and "Social Survey" provided me with a rigorous foundation in research methodologies, crucial for empirical studies in education.
-
-My professional experience as an Information Technology teacher at the First High School of Changsha has been transformative. I employed innovative pedagogical methods, such as scenario modeling and multimedia presentations, to enhance student learning. I also guided students in national and international informatics competitions, demonstrating my ability to implement personalized educational strategies and lead large-scale educational initiatives.
-
-At Hunan Broadcasting System, my role as Secretary of the President's Office broadened my perspective on adapting educational content to evolving trends and technologies. Collaborating across departments and fostering external partnerships enhanced my strategic thinking and innovation.
-
-I have also contributed to research on education poverty alleviation at the First High School of Changsha. This experience highlighted the importance of contextualized learning in cultivating computational thinking skills among students. Our scenario-based teaching strategies have significantly improved students' problem-solving abilities and comprehension of computational concepts.
-
-A data-driven personal website
+EDUCATION 
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+University of La Verne                                                                                                                                La Verne, US
+Master of Educational Leadership                                                                                                                 Aug.2023 – Present 
+Relevant Coursework: Instructional Leadership, Educational Research and Inquiry, Contemporary Issues in CA Schools, 	Foundations of Educational Leadership, Human Resource Administration, Organizational Management and School-Community Collaboration
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Hunan Agricultural University                                                                                                                       Changsha, China Bachelor of Management in Accounting                                                                                                             Sept.2011-Jun.2015 Relevant Coursework: Fundamentals of Computer Application, Principles of Management, Probability and Mathematical Statistics, Mathematical Modeling, Statistical Principle, Management Information System, Social Science Research Methods, Social Survey 
 
-Getting started
+
+PROFESSIONAL EXPERIENCE
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+The University of La Verne
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Academic Technology Specialists                                       La Verne, CA, US                                                          Mar.2024-Present
+Provide academic technology-related support to faculty, staff, students, and community members such as Blackboard, Qualtrics, Digication, MS Office, Adobe Suites, Web content development, SnagIt, Camtasia, and other related academic technology software and tools.
+ Provide instructions, orientations, and workshops on academic technology-related topics like AI.
+Assist in community engagement activities such as Maker Fair, and Robotic Summer Camps, as well as providing solutions to solve real-life problems using IoT devices, Raspberry Pi, etc.
+Assist in researching emerging technologies for faculty and students to use to enhance their teaching and/or learning experience.
 
-Create content & metadata
+
+The First High School of Changsha
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Information Technology Teacher       Changsha, China                              Apr.2015-Aug.2023                                                                 Taught IT to 75 first-year senior students using scenario modeling, task-driven, and multimedia presentations. Evaluated learning outcomes via in-class contests, achieving a 96% satisfaction rate and the 1st prize in the National High School Information Technology Lecture Competition in 2022.
+Assisted Changsha No.1 High School Education Group in IOI training. Developed targeted teaching plans and selection mechanisms, fostering collaborative progress through an "echelon" learning model. 56 students won medals in both the International and National Olympiad in Informatics.
+Organized training for students participating in the International Science Olympiad. Headed experimental classes, coordinated with instructors, and launched events like summer camps. 8,463 participants, including 16 gold medalists and 318 students admitted to top universities.
+Led school admissions locally, planning, promoting, and guiding various student categories. Managed training for new students and academic record tracking. Enrolled over 8,100 students.
+Managed independent province-wide recruitment. Conducted promotional activities, examinations, interviews, and registration. Recruited 773 students from 2,509 candidates across 14 cities/regions.
+Involved in Hunan Province's 13th Five-Year Plan project on cultivating computational thinking. Contributed to research and teaching material compilation on Internet Information Browsing, summarizing achievements and responsibilities.
+
+Hunan Broadcasting System
+------
+Secretary of President Office                             Changsha, China                           Jul.2014-Apr.2015                                               
+Collaborated with various departments to identify emerging trends and audience preferences, leading to the development of diverse programming.
+Cultivated partnerships with external content creators and production houses to bring fresh and innovative content to our audience.
+Implemented strategies to leverage new technologies and distribution channels, ensuring the accessibility and relevance of our content in a rapidly evolving media landscape.  
+
+
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
 **Markdown generator**
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
