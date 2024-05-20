@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Personal Statement"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a graduate student at the University of La Verne, pursuing a Master's in Education Leadership. My academic journey began with an undergraduate degree in management and accounting at Hunan Agricultural University, where I developed a strong foundation in various disciplines essential for education.
+
+My coursework included "Fundamentals of Computer Application," "Principles of Management," "Probability and Mathematical Statistics," "Mathematical Modeling," and "Management Information Systems." These courses equipped me with the technological, analytical, and managerial skills necessary for innovative teaching and educational research. Additionally, "Social Science Research Methods" and "Social Survey" provided me with a rigorous foundation in research methodologies, crucial for empirical studies in education.
+
+My professional experience as an Information Technology teacher at the First High School of Changsha has been transformative. I employed innovative pedagogical methods, such as scenario modeling and multimedia presentations, to enhance student learning. I also guided students in national and international informatics competitions, demonstrating my ability to implement personalized educational strategies and lead large-scale educational initiatives.
+
+At Hunan Broadcasting System, my role as Secretary of the President's Office broadened my perspective on adapting educational content to evolving trends and technologies. Collaborating across departments and fostering external partnerships enhanced my strategic thinking and innovation.
+
+I have also contributed to research on education poverty alleviation at the First High School of Changsha. This experience highlighted the importance of contextualized learning in cultivating computational thinking skills among students. Our scenario-based teaching strategies have significantly improved students' problem-solving abilities and comprehension of computational concepts.
 
 A data-driven personal website
 ======
