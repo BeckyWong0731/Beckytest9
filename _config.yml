@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Bingqing Wang / Academic Technology Specialist"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Becky"
+description              : &description "Academic Technology Specialist | University of La Verne | 8 years of teaching experience High School CS Teacher | National Teaching Competition Winner | Hunan Province Curriculum Specialist"
+url                      : https://beckywong0731.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Bingqing Wang (Becky)"
+  pronouns         : "she/her"  
+  bio              : "Graduate student at the University of La Verne, pursuing a Master's in Education Leadership. Experienced Information Technology teacher specializing in innovative pedagogical methods."
+  location         : "La Verne"
+  employer         : "the University of La Verne"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wangbingqingcsyz@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
