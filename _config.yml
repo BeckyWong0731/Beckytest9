@@ -12,7 +12,7 @@ title                    : "Bingqing Wang / Homepage"
 title_separator          : "-"
 name                     : &name "Becky"
 description              : &description "Academic Technology Specialist | University of La Verne | 8 years of teaching experience High School CS Teacher | National Teaching Competition Winner | Hunan Province Curriculum Specialist"
-url                      : https://beckywong0731.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://beckywong0731.github.io/Beckytest9 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
